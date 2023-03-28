@@ -30,7 +30,7 @@ $ flutter run
 
   <img src="/assets/screenshots/screenshot_00.jpg" alt="Screenshot 00">
 
-  <img src="/assets/screenshots/screenshot_02.jpg" alt="Screenshot 01">
+  <img src="/assets/screenshots/screenshot_01.jpg" alt="Screenshot 01">
 
   <img src="/assets/screenshots/screenshot_02.jpg" alt="Screenshot 02">
 
